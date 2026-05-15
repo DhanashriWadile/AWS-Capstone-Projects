@@ -8,9 +8,9 @@
 
 ---
 
-### ☁️ Real-World AWS • DevOps • CI/CD • Automation Projects
+## ☁️ Real-World AWS • DevOps • CI/CD • Automation Projects
 
-## ✨ About This Repository
+# ✨ About This Repository
 
 Welcome to my AWS Capstone Projects Repository.
 
