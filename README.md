@@ -8,7 +8,7 @@
 
 ---
 
-# ☁️ Real-World AWS • DevOps • CI/CD • Automation Projects
+### ☁️ Real-World AWS • DevOps • CI/CD • Automation Projects
 
 ## ✨ About This Repository
 
