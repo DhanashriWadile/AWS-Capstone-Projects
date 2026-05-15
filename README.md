@@ -188,7 +188,7 @@ If you found these projects helpful:
 ---
 
 
-# “Automation transforms repetitive tasks into scalable cloud solutions.”
+# ⚡“Automation transforms repetitive tasks into scalable cloud solutions.”⚡
 
 ---
 
