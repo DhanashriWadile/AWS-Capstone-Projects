@@ -23,6 +23,7 @@ Each project is supported with detailed documentation including:
 🔐 IAM & Security Configurations
 📊 Monitoring & Logging Setup
 🚀 CI/CD Workflow Explanation
+
 ☁️ AWS Services Used
 AWS Service	Purpose
 AWS EC2	Virtual Machine Hosting
@@ -34,6 +35,7 @@ AWS SNS	Notification Services
 AWS API Gateway	API Development & Management
 AWS CodePipeline	CI/CD Pipeline Automation
 AWS CodeBuild	Automated Build & Testing
+
 ⚙️ DevOps & Automation Concepts
 🔄 Continuous Integration & Continuous Deployment
 🚀 Automated Build, Test & Deployment
@@ -52,6 +54,7 @@ Automated build and deployment workflow
 GitHub-based continuous delivery
 Serverless automation with Lambda
 CloudWatch monitoring integration
+
 🐳 DeploySync — Dockerized Deployment Workflow
 
 A containerized deployment architecture using Docker, AWS EC2, and Amazon S3.
@@ -61,6 +64,7 @@ Docker-based application deployment
 Scalable EC2 hosting
 Automated deployment workflow
 Artifact storage using Amazon S3
+
 ⚡ FlowOps — Lambda Triggered DevOps Workflow
 
 An event-driven automation pipeline powered by AWS Lambda and integrated AWS services.
@@ -70,6 +74,7 @@ Event-based automation
 Cloud-native workflow execution
 Automated DevOps operations
 Serverless infrastructure management
+
 🔔 NotifyHub — Serverless Notification System
 
 A real-time notification system using AWS Lambda, SNS, and S3 for email and SMS alerts.
@@ -87,6 +92,7 @@ Lightweight serverless architecture
 🐧 Linux
 📊 Amazon CloudWatch
 ⚡ Boto3 SDK
+
 📈 Skills Demonstrated
 ✔ CI/CD Pipeline Design & Automation
 ✔ AWS Cloud Deployment & Management
@@ -106,6 +112,7 @@ Implementation Steps
 Deployment Workflow
 Screenshots & Results
 Monitoring & Logging Configuration
+
 👨‍💻 About Me
 
 Hi, I’m Dhanashri Wadile 👋
@@ -119,10 +126,12 @@ CI/CD Pipelines
 Python Scripting
 Docker & Containerization
 Serverless Architecture
+
 🌐 Connect With Me
 📧 Email: dhanashri090505@gmail.com
 💼 LinkedIn: https://www.linkedin.com/in/dhanashri-wadile
 🔗 GitHub: https://github.com/DhanashriWadile
+
 ⭐ Support This Repository
 
 If you found these projects helpful:
