@@ -187,15 +187,11 @@ If you found these projects helpful:
 
 ---
 
-# ⚡ Quote
 
 > “Automation transforms repetitive tasks into scalable cloud solutions.”
 
 ---
 
-# 🚀 Thank You for Visiting My Repository 🚀ation
+# 🚀 Thank You for Visiting My Repository 🚀
 
 
-“Automation transforms repetitive tasks into scalable cloud solutions.”
-
-🚀 Thank You for Visiting My Repository 🚀
